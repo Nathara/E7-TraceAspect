@@ -1,3 +1,4 @@
+
 public aspect TraceAspectOkonski {
 
 	pointcut classToTrace(): within(*App);
